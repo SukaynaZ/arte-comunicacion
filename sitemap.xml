@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://sukaynaz.github.io/arte-comunicacion/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://sukaynaz.github.io/arte-comunicacion/</loc>
+</url>
+<url>
+<loc>https://sukaynaz.github.io/arte-comunicacion/acerca-de-mi.html</loc>
+<lastmod>2025-09-05T22:03:47-05:00</lastmod>
+<image:image>
+<image:loc>https://sukaynaz.github.io/arte-comunicacion/media/posts/1/Fiesta-baila-quincieanera.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://sukaynaz.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html</loc>
+<lastmod>2025-09-05T23:47:40-05:00</lastmod>
+<image:image>
+<image:loc>https://sukaynaz.github.io/arte-comunicacion/media/posts/2/gallery/imagen-de-inkscape-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://sukaynaz.github.io/arte-comunicacion/media/posts/2/IMG_3355.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arte y comunicación",
+    "description": "",
+    "home_page_url": "https://sukaynaz.github.io/arte-comunicacion",
+    "feed_url": "https://sukaynaz.github.io/arte-comunicacion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sukayna Zahra Herman Cuero"
+    },
+    "items": [
+        {
+            "id": "https://sukaynaz.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html",
+            "url": "https://sukaynaz.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html",
+            "title": "Mi composición visual en inkscape",
+            "summary": "Mi composición visual parte de una fotografía tomada en un edificio abandonado ubicado en Mosquera, Nariño. La imagen original muestra un paisaje visible&hellip;",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://sukaynaz.github.io/arte-comunicacion/media/posts/2/gallery/imagen-de-inkscape.jpeg\" data-size=\"1068x1513\"><img loading=\"lazy\" src=\"https://sukaynaz.github.io/arte-comunicacion/media/posts/2/gallery/imagen-de-inkscape-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"1020\"></a></figure>\n</div></div>\n<p>Mi composición visual parte de una fotografía tomada en un edificio abandonado ubicado en Mosquera, Nariño. La imagen original muestra un paisaje visible a través de una pared parcialmente derribada, construida en ladrillo. Este detalle —el muro incompleto que abre un espacio hacia el exterior— genera un contraste entre el deterioro arquitectónico y la vitalidad del entorno natural, sugiriendo una tensión entre abandono y permanencia, encierro y apertura.<br><br>Para la reinterpretación digital de esta imagen, se utilizó Inkscape, con el propósito de recrear la escena a partir de formas geométricas básicas. Se emplearon rectángulos y círculos para reemplazar los elementos principales: los rectángulos evocan la estructura rígida del muro,aunque tambien se usaron los rectangulos para las plantas, el suelo, y el cielo, dado que era la mejor manera de representarlos, mientras que los círculos, situados en la zona del cielo, buscan sugerir la percepción del paisaje a través del hueco. Esta simplificación geométrica no solo responde a una elección estética, sino también conceptual, pues permite abstraer la composición original y resaltar las relaciones espaciales entre la estructura destruida y la apertura que revela el horizonte.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sukaynaz.github.io/arte-comunicacion/media/posts/2/IMG_3355.jpg\" alt=\"\" width=\"2732\" height=\"3643\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sukaynaz.github.io/arte-comunicacion/media/posts/2/responsive/IMG_3355-xs.jpg 300w ,https://sukaynaz.github.io/arte-comunicacion/media/posts/2/responsive/IMG_3355-sm.jpg 480w ,https://sukaynaz.github.io/arte-comunicacion/media/posts/2/responsive/IMG_3355-md.jpg 768w ,https://sukaynaz.github.io/arte-comunicacion/media/posts/2/responsive/IMG_3355-lg.jpg 1024w ,https://sukaynaz.github.io/arte-comunicacion/media/posts/2/responsive/IMG_3355-xl.jpg 1360w ,https://sukaynaz.github.io/arte-comunicacion/media/posts/2/responsive/IMG_3355-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Sukayna Zahra Herman Cuero"
+            },
+            "tags": [
+                   "Composición visual"
+            ],
+            "date_published": "2025-08-24T22:43:44-05:00",
+            "date_modified": "2025-09-05T23:47:40-05:00"
+        }
+    ]
+}
