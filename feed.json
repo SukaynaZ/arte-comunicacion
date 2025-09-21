@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sukaynaz.github.io/arte-comunicacion/audacity.html",
+            "url": "https://sukaynaz.github.io/arte-comunicacion/audacity.html",
+            "title": "Audacity",
+            "summary": "Para la composición sonora de Arte y Comunicación utilicé la aplicación Audacity y trabajé con tres fragmentos de audio, además de una canción.",
+            "content_html": "<p>Para la composición sonora de Arte y Comunicación utilicé la aplicación Audacity y trabajé con tres fragmentos de audio, además de una canción. El primero corresponde a La casa de los famosos Colombia 2024, donde Karen Sevillano explica cómo funciona el racismo estructural en Colombia. El segundo es de la pelicula Talentos ocultos, en la escena en la que Mary Jackson expresa su deseo de estudiar en la universidad, pero se enfrenta al impedimento por ser negra. El tercero proviene de Escritores de la libertad, durante la discusión entre la maestra Erin Gruwell y la estudiante Eva Benítez, quien manifiesta su odio hacia los blancos como resultado del racismo vivido. Finalmente, incluí un fragmento de la canción Stand Up de Cynthia Erivo.<br>Recorté los audios para ajustarlos al límite estipulado, al igual que la canción. Al final de cada fragmento seleccioné la última frase, sobre la cual apliqué efectos de sonido y reverberación para enfatizar el mensaje. En un caso particular decidí simular el efecto de llamada, con el fin de transmitir la sensación de distancia o ajenidad ante la situación.<br>La canción se escucha a un volumen más bajo que los fragmentos de las películas; esta decisión es intencional, ya que permite dar mayor fuerza a los argumentos y destacar los diálogos. En ciertos intervalos, entre un fragmento y otro, la música queda en primer plano durante algunos segundos, lo que permite apreciarla mejor y marcar las transiciones.<br>Algunos efectos aplicados a los audios no son tan perceptibles, posiblemente por la calidad original de las grabaciones. Finalmente, descarté la idea de acelerar los audios o darles un tono humorístico, ya que esto habría debilitado el mensaje que deseaba transmitir.<a href=\"https://drive.google.com/file/d/1MjvFGUxXXp0vN7mtG84PZtK4ZZXV3xO6/view?usp=drive_link\"></a></p>\n<p><a href=\"https://drive.google.com/file/d/1MjvFGUxXXp0vN7mtG84PZtK4ZZXV3xO6/view?usp=drive_link\">https://drive.google.com/file/d/1MjvFGUxXXp0vN7mtG84PZtK4ZZXV3xO6/view?usp=drive_link</a> </p>",
+            "author": {
+                "name": "Sukayna Zahra Herman Cuero"
+            },
+            "tags": [
+                   "Composición Sonora"
+            ],
+            "date_published": "2025-09-20T20:48:11-05:00",
+            "date_modified": "2025-09-20T21:13:30-05:00"
+        },
+        {
             "id": "https://sukaynaz.github.io/arte-comunicacion/pachitemiau.html",
             "url": "https://sukaynaz.github.io/arte-comunicacion/pachitemiau.html",
             "title": "Webcomic",
